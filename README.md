@@ -1,5 +1,5 @@
 # Music Player JS
-<li> A simple Music Player written in HTML, CSS and JavaScript.
+<li> An attractive Music Player written in HTML, CSS and JavaScript.
 <li> This Project uses different concepts of HTML, CSS and JavaScript.
 <li> This Project also uses some DOM concepts to Manipulate HTML Document.
 
